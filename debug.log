@@ -1,0 +1,386 @@
+2025-04-25 10:43:50.001 | ERROR    | __main__:run:78 - 数据包捕获失败: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-04-25 11:02:04.070 | ERROR    | __main__:run:290 - 数据包捕获失败: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-04-25 11:51:31.085 | ERROR    | __main__:get_cpu_usage:301 - 获取CPU使用率失败: could not convert string to float: 'Command'
+2025-04-25 11:51:31.097 | ERROR    | __main__:get_memory_usage:320 - 获取内存使用情况失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:51:31.125 | ERROR    | __main__:get_battery_temp:341 - 获取电池温度失败: could not convert string to float: "Command 'adb shell dumpsys battery | grep temperature' returned non-zero exit status 255."
+2025-04-25 11:51:31.149 | ERROR    | __main__:get_network_traffic:366 - 获取网络流量失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:51:32.173 | ERROR    | __main__:get_cpu_usage:301 - 获取CPU使用率失败: could not convert string to float: 'Command'
+2025-04-25 11:51:32.183 | ERROR    | __main__:get_memory_usage:320 - 获取内存使用情况失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:51:32.203 | ERROR    | __main__:get_battery_temp:341 - 获取电池温度失败: could not convert string to float: "Command 'adb shell dumpsys battery | grep temperature' returned non-zero exit status 255."
+2025-04-25 11:51:32.223 | ERROR    | __main__:get_network_traffic:366 - 获取网络流量失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:51:33.244 | ERROR    | __main__:get_cpu_usage:301 - 获取CPU使用率失败: could not convert string to float: 'Command'
+2025-04-25 11:51:33.254 | ERROR    | __main__:get_memory_usage:320 - 获取内存使用情况失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:51:33.274 | ERROR    | __main__:get_battery_temp:341 - 获取电池温度失败: could not convert string to float: "Command 'adb shell dumpsys battery | grep temperature' returned non-zero exit status 255."
+2025-04-25 11:51:33.294 | ERROR    | __main__:get_network_traffic:366 - 获取网络流量失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:51:34.314 | ERROR    | __main__:get_cpu_usage:301 - 获取CPU使用率失败: could not convert string to float: 'Command'
+2025-04-25 11:51:34.324 | ERROR    | __main__:get_memory_usage:320 - 获取内存使用情况失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:51:34.344 | ERROR    | __main__:get_battery_temp:341 - 获取电池温度失败: could not convert string to float: "Command 'adb shell dumpsys battery | grep temperature' returned non-zero exit status 255."
+2025-04-25 11:51:34.364 | ERROR    | __main__:get_network_traffic:366 - 获取网络流量失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:51:35.385 | ERROR    | __main__:get_cpu_usage:301 - 获取CPU使用率失败: could not convert string to float: 'Command'
+2025-04-25 11:51:35.405 | ERROR    | __main__:get_memory_usage:320 - 获取内存使用情况失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:51:35.426 | ERROR    | __main__:get_battery_temp:341 - 获取电池温度失败: could not convert string to float: "Command 'adb shell dumpsys battery | grep temperature' returned non-zero exit status 255."
+2025-04-25 11:51:35.446 | ERROR    | __main__:get_network_traffic:366 - 获取网络流量失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:51:36.467 | ERROR    | __main__:get_cpu_usage:301 - 获取CPU使用率失败: could not convert string to float: 'Command'
+2025-04-25 11:51:36.476 | ERROR    | __main__:get_memory_usage:320 - 获取内存使用情况失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:51:36.496 | ERROR    | __main__:get_battery_temp:341 - 获取电池温度失败: could not convert string to float: "Command 'adb shell dumpsys battery | grep temperature' returned non-zero exit status 255."
+2025-04-25 11:51:36.518 | ERROR    | __main__:get_network_traffic:366 - 获取网络流量失败: invalid literal for int() with base 10: 'Command'
+2025-04-25 11:52:21.877 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '690,217K'
+2025-04-25 11:52:23.450 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '674,112K'
+2025-04-25 11:52:25.001 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '671,716K'
+2025-04-25 11:52:26.571 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '665,747K'
+2025-04-25 11:52:28.118 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '669,573K'
+2025-04-25 11:52:29.664 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '670,312K'
+2025-04-25 11:52:31.199 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '667,070K'
+2025-04-25 11:52:32.746 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '664,091K'
+2025-04-25 11:52:33.487 | ERROR    | __main__:run:456 - 日志监控错误: 'str' object has no attribute 'stdout'
+2025-04-25 11:52:34.286 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '676,704K'
+2025-04-25 11:52:35.844 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '668,197K'
+2025-04-25 11:52:37.414 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '664,662K'
+2025-04-25 11:52:39.001 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '663,648K'
+2025-04-25 11:52:40.583 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '676,368K'
+2025-04-25 11:52:42.147 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '669,571K'
+2025-04-25 11:52:43.704 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '667,760K'
+2025-04-25 11:52:45.255 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '667,789K'
+2025-04-25 11:52:46.802 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '672,780K'
+2025-04-25 11:52:48.365 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '661,779K'
+2025-04-25 11:52:49.968 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '659,501K'
+2025-04-25 11:52:51.527 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '656,440K'
+2025-04-25 11:52:53.080 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '669,063K'
+2025-04-25 11:52:54.633 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '658,530K'
+2025-04-25 11:52:56.191 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '655,312K'
+2025-04-25 11:52:57.733 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '660,704K'
+2025-04-25 11:52:59.301 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '663,080K'
+2025-04-25 11:53:00.844 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '659,270K'
+2025-04-25 11:53:02.410 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '656,671K'
+2025-04-25 11:53:03.964 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '667,525K'
+2025-04-25 11:53:05.534 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '673,130K'
+2025-04-25 11:53:07.097 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '680,793K'
+2025-04-25 11:53:08.654 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '670,263K'
+2025-04-25 11:53:10.211 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '661,971K'
+2025-04-25 11:53:11.773 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '674,641K'
+2025-04-25 11:53:13.342 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '665,248K'
+2025-04-25 11:53:14.911 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '662,196K'
+2025-04-25 11:53:16.447 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '673,609K'
+2025-04-25 11:53:18.000 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '666,985K'
+2025-04-25 11:53:18.297 | ERROR    | __main__:run:456 - 日志监控错误: 'str' object has no attribute 'stdout'
+2025-04-25 11:53:19.558 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '661,781K'
+2025-04-25 11:53:21.130 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '673,077K'
+2025-04-25 11:53:22.700 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '667,422K'
+2025-04-25 11:53:24.251 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '668,762K'
+2025-04-25 11:53:25.804 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '661,360K'
+2025-04-25 11:53:27.546 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '662,978K'
+2025-04-25 11:53:29.104 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '666,738K'
+2025-04-25 11:53:30.661 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '664,548K'
+2025-04-25 11:53:32.205 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '659,015K'
+2025-04-25 11:53:33.775 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '670,027K'
+2025-04-25 11:53:35.345 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '661,549K'
+2025-04-25 11:53:36.914 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '659,425K'
+2025-04-25 11:53:38.477 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '657,663K'
+2025-04-25 11:53:40.030 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '670,473K'
+2025-04-25 11:53:41.582 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '663,291K'
+2025-04-25 11:53:43.146 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '660,340K'
+2025-04-25 11:53:44.684 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '672,655K'
+2025-04-25 11:53:46.246 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '665,258K'
+2025-04-25 11:53:47.797 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '676,792K'
+2025-04-25 11:53:49.345 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '672,339K'
+2025-04-25 11:53:50.928 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '667,049K'
+2025-04-25 11:53:52.477 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '671,040K'
+2025-04-25 11:53:54.082 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '672,098K'
+2025-04-25 11:53:55.639 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '670,359K'
+2025-04-25 11:53:57.206 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '664,301K'
+2025-04-25 11:53:58.760 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '675,916K'
+2025-04-25 11:54:00.301 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '669,879K'
+2025-04-25 11:54:01.835 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '666,774K'
+2025-04-25 11:54:03.411 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '672,697K'
+2025-04-25 11:54:04.964 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '671,995K'
+2025-04-25 11:55:08.179 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '690,425K'
+2025-04-25 11:55:09.795 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '670,023K'
+2025-04-25 11:55:11.341 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '681,644K'
+2025-04-25 11:55:12.594 | ERROR    | __main__:run:456 - 日志监控错误: 'str' object has no attribute 'stdout'
+2025-04-25 11:55:12.895 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '674,127K'
+2025-04-25 11:55:14.477 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '671,175K'
+2025-04-25 11:55:16.023 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '681,442K'
+2025-04-25 11:55:17.609 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '672,888K'
+2025-04-25 11:55:19.211 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '668,712K'
+2025-04-25 11:55:20.778 | ERROR    | __main__:get_memory_usage:316 - 获取内存使用情况失败: invalid literal for int() with base 10: '681,555K'
+2025-04-25 12:09:11.194 | INFO     | __main__:download_file:1029 - 开始下载文件: /system/compatibility_matrix.xml -> D:/迅雷下载/jd-gui-windows-1.6.6/jd-gui-windows-1.6.6/compatibility_matrix.xml
+2025-04-25 12:09:11.253 | INFO     | __main__:download_file:1038 - 文件 compatibility_matrix.xml 下载成功
+2025-04-25 12:12:38.483 | ERROR    | __main__:run:524 - 抓包错误: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-04-25 12:23:49.333 | ERROR    | __main__:run:524 - 抓包错误: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-04-25 12:23:51.539 | ERROR    | __main__:run:524 - 抓包错误: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-04-25 12:23:53.131 | ERROR    | __main__:run:524 - 抓包错误: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-04-25 12:23:53.667 | ERROR    | __main__:run:524 - 抓包错误: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-04-25 12:23:54.083 | ERROR    | __main__:run:524 - 抓包错误: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-04-25 12:23:57.883 | ERROR    | __main__:run:524 - 抓包错误: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-04-25 12:39:30.241 | INFO     | __main__:download_file:1287 - 开始下载文件: /system/app/WallpaperBackup/WallpaperBackup.apk -> D:/迅雷下载/jd-gui-windows-1.6.6/jd-gui-windows-1.6.6/WallpaperBackup.apk
+2025-04-25 12:39:30.299 | INFO     | __main__:download_file:1296 - 文件 WallpaperBackup.apk 下载成功
+2025-04-25 21:49:35.085 | ERROR    | __main__:select_apk_file:1127 - 选择APK文件时发生错误: '_tkinter.tkapp' object has no attribute 'apk_path_entry'
+2025-04-25 21:50:01.850 | ERROR    | __main__:select_apk_file:1127 - 选择APK文件时发生错误: '_tkinter.tkapp' object has no attribute 'apk_path_entry'
+2025-04-25 21:52:10.331 | ERROR    | __main__:<module>:37 - 未安装androguard库，APK分析功能将不可用
+2025-04-25 21:52:18.178 | ERROR    | __main__:select_apk_file:1123 - 选择APK文件时发生错误: '_tkinter.tkapp' object has no attribute 'apk_path_entry'
+2025-04-25 21:56:22.127 | ERROR    | __main__:<module>:37 - 未安装androguard库，APK分析功能将不可用
+2025-04-25 21:56:47.391 | ERROR    | __main__:list_files:1853 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:26.267 | ERROR    | __main__:<module>:38 - 未安装androguard库，APK分析功能将不可用: No module named 'androguard.core.bytecodes'
+2025-04-25 21:58:26.267 | ERROR    | __main__:<module>:39 - 请使用pip install androguard安装该库
+2025-04-25 21:58:46.440 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.047 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.047 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.047 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.047 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.048 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.048 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.048 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.048 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.048 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.048 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.048 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.048 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.049 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.049 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.049 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.049 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.049 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.049 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:55.049 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.287 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.287 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.287 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.288 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:56.289 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.394 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.394 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.395 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.395 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.395 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.395 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.395 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.395 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.395 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.395 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.396 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.396 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.396 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.396 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.396 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.396 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.396 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.396 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.396 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.871 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.871 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.871 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.872 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.872 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.872 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.872 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.872 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.872 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.872 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.872 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.873 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.873 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.873 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.873 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.873 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.873 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.873 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:58:57.874 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 21:59:03.495 | ERROR    | __main__:analyze_apk:1130 - 尝试进行APK分析，但androguard库未安装
+2025-04-25 22:03:31.809 | ERROR    | __main__:<module>:38 - 未安装androguard库，APK分析功能将不可用: No module named 'androguard.core.bytecodes'
+2025-04-25 22:03:31.809 | ERROR    | __main__:<module>:39 - 请使用pip install androguard安装该库
+2025-04-25 22:03:50.412 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.990 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.990 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.990 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.990 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.990 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.990 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.990 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.990 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.991 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.991 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.991 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.991 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.991 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.991 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.991 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.991 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.991 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.991 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:56.991 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.013 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.013 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.013 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.013 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.013 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.013 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.013 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.013 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.013 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.014 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.014 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.014 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.014 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.014 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.014 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.014 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.014 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.014 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:03:58.014 | ERROR    | __main__:list_files:1865 - 解析文件信息失败: '<' not supported between instances of 'str' and 'float'
+2025-04-25 22:04:57.512 | ERROR    | __main__:<module>:38 - 未安装androguard库，APK分析功能将不可用: No module named 'androguard.core.bytecodes'
+2025-04-25 22:04:57.513 | ERROR    | __main__:<module>:39 - 请使用pip install androguard安装该库
+2025-04-25 22:05:30.358 | ERROR    | __main__:analyze_apk:1130 - 尝试进行APK分析，但androguard库未安装
+2025-04-25 22:06:56.842 | ERROR    | __main__:<module>:38 - 未安装androguard库，APK分析功能将不可用: No module named 'androguard.core.bytecodes'
+2025-04-25 22:06:56.843 | ERROR    | __main__:<module>:39 - 请使用pip install androguard安装该库
+2025-04-25 22:07:17.294 | ERROR    | __main__:analyze_apk:1130 - 尝试进行APK分析，但androguard库未安装
+2025-04-25 22:08:25.096 | ERROR    | __main__:<module>:38 - 未安装androguard库，APK分析功能将不可用: No module named 'androguard.core.bytecodes'
+2025-04-25 22:08:25.096 | ERROR    | __main__:<module>:39 - 请使用pip install androguard安装该库
+2025-04-25 22:08:36.920 | ERROR    | __main__:analyze_apk:1132 - 尝试进行APK分析，但androguard库未安装
+2025-04-25 22:08:43.520 | ERROR    | __main__:analyze_apk:1132 - 尝试进行APK分析，但androguard库未安装
+2025-04-25 22:09:04.733 | ERROR    | __main__:<module>:38 - 未安装androguard库，APK分析功能将不可用: No module named 'androguard.core.bytecodes'
+2025-04-25 22:09:04.733 | ERROR    | __main__:<module>:39 - 请使用pip install androguard安装该库
+2025-04-25 22:09:14.511 | ERROR    | __main__:analyze_apk:1132 - 尝试进行APK分析，但androguard库未安装
+2025-04-25 22:09:17.094 | ERROR    | __main__:analyze_apk:1132 - 尝试进行APK分析，但androguard库未安装
+2025-04-25 22:09:19.172 | ERROR    | __main__:analyze_apk:1132 - 尝试进行APK分析，但androguard库未安装
+2025-04-25 22:10:36.368 | ERROR    | __main__:<module>:38 - 未安装androguard库，APK分析功能将不可用: No module named 'androguard.core.bytecodes'
+2025-04-25 22:10:36.368 | ERROR    | __main__:<module>:39 - 请使用pip install androguard安装该库
+2025-04-25 22:10:46.295 | ERROR    | __main__:analyze_apk:1132 - 尝试进行APK分析，但androguard库未安装
+2025-04-25 22:10:48.605 | ERROR    | __main__:analyze_apk:1132 - 尝试进行APK分析，但androguard库未安装
+2025-04-25 22:23:15.855 | ERROR    | __main__:<module>:38 - 未安装androguard库，APK分析功能将不可用: No module named 'androguard.core.bytecodes'
+2025-04-25 22:23:15.856 | ERROR    | __main__:<module>:39 - 请使用pip install androguard安装该库
+2025-04-25 22:23:29.718 | ERROR    | __main__:analyze_apk:1132 - 尝试进行APK分析，但androguard库未安装
+2025-04-25 22:28:06.481 | ERROR    | __main__:<module>:36 - 未安装apkutils库，APK分析功能将不可用: No module named 'apkutils.manifest'
+2025-04-25 22:28:06.481 | ERROR    | __main__:<module>:37 - 请使用pip install apkutils安装该库
+2025-04-25 22:30:02.124 | INFO     | __main__:<module>:33 - 成功导入apkutils库
+2025-04-25 22:30:12.429 | ERROR    | __main__:analyze_basic_info:2224 - 分析APK基本信息失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:30:12.430 | INFO     | __main__:analyze_apk:1208 - 成功完成APK分析: basic
+2025-04-25 22:30:14.925 | ERROR    | __main__:analyze_permissions:2249 - 分析APK权限失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:30:14.925 | INFO     | __main__:analyze_apk:1208 - 成功完成APK分析: permissions
+2025-04-25 22:30:18.796 | ERROR    | __main__:analyze_signature:2275 - 分析APK签名失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:30:18.797 | INFO     | __main__:analyze_apk:1208 - 成功完成APK分析: signature
+2025-04-25 22:30:21.372 | ERROR    | __main__:analyze_components:2330 - 分析APK组件失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:30:21.373 | INFO     | __main__:analyze_apk:1208 - 成功完成APK分析: components
+2025-04-25 22:30:22.744 | INFO     | __main__:analyze_apk:1208 - 成功完成APK分析: resources
+2025-04-25 22:32:00.618 | INFO     | __main__:<module>:33 - 成功导入apkutils库
+2025-04-25 22:32:09.132 | ERROR    | __main__:analyze_basic_info:2224 - 分析APK基本信息失败: module 'apkutils.apkfile' has no attribute 'APK'
+2025-04-25 22:32:09.132 | INFO     | __main__:analyze_apk:1208 - 成功完成APK分析: basic
+2025-04-25 22:32:10.308 | ERROR    | __main__:analyze_basic_info:2224 - 分析APK基本信息失败: module 'apkutils.apkfile' has no attribute 'APK'
+2025-04-25 22:32:10.309 | INFO     | __main__:analyze_apk:1208 - 成功完成APK分析: basic
+2025-04-25 22:32:12.084 | ERROR    | __main__:analyze_permissions:2249 - 分析APK权限失败: module 'apkutils.apkfile' has no attribute 'APK'
+2025-04-25 22:32:12.084 | INFO     | __main__:analyze_apk:1208 - 成功完成APK分析: permissions
+2025-04-25 22:32:13.660 | ERROR    | __main__:analyze_signature:2275 - 分析APK签名失败: module 'apkutils.apkfile' has no attribute 'APK'
+2025-04-25 22:32:13.661 | INFO     | __main__:analyze_apk:1208 - 成功完成APK分析: signature
+2025-04-25 22:32:15.509 | ERROR    | __main__:analyze_permissions:2249 - 分析APK权限失败: module 'apkutils.apkfile' has no attribute 'APK'
+2025-04-25 22:32:15.509 | INFO     | __main__:analyze_apk:1208 - 成功完成APK分析: permissions
+2025-04-25 22:32:15.900 | ERROR    | __main__:analyze_basic_info:2224 - 分析APK基本信息失败: module 'apkutils.apkfile' has no attribute 'APK'
+2025-04-25 22:32:15.901 | INFO     | __main__:analyze_apk:1208 - 成功完成APK分析: basic
+2025-04-25 22:33:32.945 | INFO     | __main__:<module>:33 - 成功导入apkutils库
+2025-04-25 22:33:40.647 | ERROR    | __main__:analyze_basic_info:2220 - 分析APK基本信息失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:33:40.647 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: basic
+2025-04-25 22:33:43.149 | ERROR    | __main__:analyze_permissions:2233 - 分析APK权限失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:33:43.149 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: permissions
+2025-04-25 22:33:45.716 | ERROR    | __main__:analyze_signature:2254 - 分析APK签名失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:33:45.717 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: signature
+2025-04-25 22:33:47.836 | ERROR    | __main__:analyze_components:2273 - 分析APK组件失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:33:47.836 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: components
+2025-04-25 22:33:48.558 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: resources
+2025-04-25 22:34:55.003 | INFO     | __main__:<module>:33 - 成功导入apkutils库
+2025-04-25 22:35:06.507 | ERROR    | __main__:analyze_basic_info:2220 - 分析APK基本信息失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:35:06.508 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: basic
+2025-04-25 22:35:07.988 | ERROR    | __main__:analyze_permissions:2240 - 分析APK权限失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:35:07.988 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: permissions
+2025-04-25 22:35:11.580 | ERROR    | __main__:analyze_signature:2262 - 分析APK签名失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:35:11.580 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: signature
+2025-04-25 22:35:12.028 | ERROR    | __main__:analyze_components:2313 - 分析APK组件失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:35:12.028 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: components
+2025-04-25 22:35:12.973 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: resources
+2025-04-25 22:38:55.402 | INFO     | __main__:<module>:33 - 成功导入apkutils库
+2025-04-25 22:39:02.413 | ERROR    | __main__:analyze_basic_info:2222 - 分析APK基本信息失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:39:02.413 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: basic
+2025-04-25 22:39:03.571 | ERROR    | __main__:analyze_permissions:2243 - 分析APK权限失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:39:03.572 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: permissions
+2025-04-25 22:39:04.179 | ERROR    | __main__:analyze_signature:2268 - 分析APK签名失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:39:04.180 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: signature
+2025-04-25 22:39:05.299 | ERROR    | __main__:analyze_components:2331 - 分析APK组件失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:39:05.300 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: components
+2025-04-25 22:39:06.755 | ERROR    | __main__:analyze_resources:2345 - 分析APK资源失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:39:06.756 | INFO     | __main__:analyze_apk:1206 - 成功完成APK分析: resources
+2025-04-25 22:50:26.866 | INFO     | __main__:<module>:33 - 成功导入apkutils库
+2025-04-25 22:50:36.523 | ERROR    | __main__:analyze_basic_info:2216 - 分析APK基本信息失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 22:52:26.447 | INFO     | __main__:<module>:33 - 成功导入apkutils库
+2025-04-25 22:52:34.413 | ERROR    | __main__:analyze_basic_info:2217 - 分析APK基本信息失败: module 'apkutils.apkfile' has no attribute 'APKFile'
+2025-04-25 22:59:13.078 | INFO     | __main__:<module>:33 - 成功导入apkutils库，APK分析功能可用
+2025-04-25 22:59:42.458 | ERROR    | __main__:analyze_signature:2233 - 分析APK签名信息失败: 'APK' object has no attribute 'get_signature'
+2025-04-25 22:59:52.341 | ERROR    | __main__:analyze_resources:2292 - 分析APK资源信息失败: 'dict' object has no attribute 'endswith'
+2025-04-25 23:00:51.982 | INFO     | __main__:<module>:33 - 成功导入apkutils库，APK分析功能可用
+2025-04-25 23:01:00.311 | ERROR    | __main__:analyze_basic_info:2205 - 分析APK基本信息失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 23:01:02.264 | ERROR    | __main__:analyze_basic_info:2205 - 分析APK基本信息失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 23:01:04.960 | ERROR    | __main__:analyze_permissions:2220 - 分析APK权限信息失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 23:01:06.608 | ERROR    | __main__:analyze_components:2282 - 分析APK组件信息失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 23:01:07.216 | ERROR    | __main__:analyze_resources:2298 - 分析APK资源信息失败: APK.__init__() takes 1 positional argument but 2 were given
+2025-04-25 23:02:52.064 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:03:24.022 | ERROR    | __main__:analyze_signature:2253 - 分析APK签名信息失败: No module named 'OpenSSL'
+2025-04-25 23:03:34.303 | ERROR    | __main__:analyze_signature:2253 - 分析APK签名信息失败: No module named 'OpenSSL'
+2025-04-25 23:03:55.905 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:04:07.703 | ERROR    | __main__:analyze_signature:2253 - 分析APK签名信息失败: module 'OpenSSL.crypto' has no attribute 'load_pkcs7_data'
+2025-04-25 23:04:41.334 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:04:50.344 | ERROR    | __main__:analyze_signature:2265 - 分析APK签名信息失败: name 'apkutils2' is not defined
+2025-04-25 23:04:50.344 | ERROR    | __main__:analyze_apk:1150 - APK分析失败: 'str' object has no attribute 'items'
+2025-04-25 23:06:33.064 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:06:40.709 | ERROR    | __main__:analyze_basic_info:2241 - 分析APK基本信息失败: name 'apkutils2' is not defined
+2025-04-25 23:06:42.424 | ERROR    | __main__:analyze_basic_info:2241 - 分析APK基本信息失败: name 'apkutils2' is not defined
+2025-04-25 23:06:43.240 | ERROR    | __main__:analyze_permissions:2262 - 分析APK权限信息失败: name 'apkutils2' is not defined
+2025-04-25 23:06:43.720 | ERROR    | __main__:analyze_signature:2289 - 分析APK签名信息失败: name 'apkutils2' is not defined
+2025-04-25 23:07:23.130 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:07:33.670 | ERROR    | __main__:analyze_signature:2292 - 分析APK签名信息失败: module 'OpenSSL.crypto' has no attribute 'load_pkcs7_data'
+2025-04-25 23:07:37.980 | ERROR    | __main__:analyze_resources:2383 - 分析APK资源信息失败: 'dict' object has no attribute 'endswith'
+2025-04-25 23:07:37.982 | ERROR    | __main__:analyze_apk:1150 - APK分析失败: 'dynamic_libraries'
+2025-04-25 23:07:42.377 | ERROR    | __main__:analyze_resources:2383 - 分析APK资源信息失败: 'dict' object has no attribute 'endswith'
+2025-04-25 23:07:42.379 | ERROR    | __main__:analyze_apk:1150 - APK分析失败: 'dynamic_libraries'
+2025-04-25 23:08:44.446 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:08:52.863 | ERROR    | __main__:analyze_signature:2304 - 分析APK签名信息失败: 'APK' object has no attribute 'get_cert_data'
+2025-04-25 23:08:52.864 | ERROR    | __main__:analyze_apk:1150 - APK分析失败: 'str' object has no attribute 'items'
+2025-04-25 23:09:01.118 | ERROR    | __main__:analyze_resources:2398 - 分析APK资源信息失败: 'list' object has no attribute 'get'
+2025-04-25 23:09:01.120 | ERROR    | __main__:analyze_apk:1150 - APK分析失败: string indices must be integers, not 'str'
+2025-04-25 23:10:33.033 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:10:40.276 | ERROR    | __main__:analyze_apk:1150 - APK分析失败: 'tuple' object has no attribute 'items'
+2025-04-25 23:12:38.760 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:13:00.540 | ERROR    | __main__:analyze_signature:2322 - 分析APK签名失败: module 'OpenSSL.crypto' has no attribute 'load_pkcs7_data'
+2025-04-25 23:14:56.759 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:17:30.244 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:22:41.544 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:24:52.214 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:27:57.334 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:30:56.705 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:33:53.407 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:34:07.592 | INFO     | __main__:run:543 - 执行抓包命令: adb shell tcpdump -n -l -vv
+2025-04-25 23:35:22.430 | INFO     | __main__:<module>:34 - 成功导入apkutils2库
+2025-04-25 23:35:28.205 | INFO     | __main__:run:544 - 执行抓包命令: adb shell tcpdump -n -l -vv
+2025-04-25 23:37:28.181 | INFO     | __main__:<module>:34 - 成功导入apkutils2库
+2025-04-25 23:37:37.284 | INFO     | __main__:run:552 - 执行抓包命令: adb shell tcpdump -n -l -vv
+2025-04-25 23:37:37.361 | INFO     | __main__:cleanup:666 - 正在终止tcpdump进程...
+2025-04-25 23:37:37.361 | INFO     | __main__:cleanup:680 - 清理设备上的tcpdump进程...
+2025-04-25 23:37:48.487 | INFO     | __main__:run:552 - 执行抓包命令: adb shell tcpdump -n -l -vv
+2025-04-25 23:37:48.551 | INFO     | __main__:cleanup:666 - 正在终止tcpdump进程...
+2025-04-25 23:37:48.552 | INFO     | __main__:cleanup:680 - 清理设备上的tcpdump进程...
+2025-04-25 23:42:45.274 | INFO     | __main__:<module>:35 - 成功导入apkutils2库
+2025-04-25 23:48:11.538 | INFO     | __main__:<module>:35 - 成功导入apkutils2库
+2025-04-25 23:49:15.029 | ERROR    | __main__:run:489 - 日志监控错误: main thread is not in main loop
+2025-04-25 23:49:55.448 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:50:04.402 | ERROR    | __main__:run:538 - 抓包错误: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-04-25 23:51:09.745 | INFO     | __main__:<module>:33 - 成功导入apkutils2库
+2025-04-25 23:51:19.100 | ERROR    | __main__:run:538 - 抓包错误: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
